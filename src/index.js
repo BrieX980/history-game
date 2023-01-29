@@ -2,7 +2,12 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
+import * as serviceWorker from './serviceWorker';
+import registerFaIcons from './registerFaIcons';
+import Home from './components/home/home.js';
 import reportWebVitals from './reportWebVitals';
+
+registerFaIcons();
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(

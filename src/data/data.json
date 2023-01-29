@@ -1,0 +1,36 @@
+[
+    {
+        "id": 1,
+        "title": "WW1",
+        "page": "../pages/ww1.js",
+        "subtitle": "",
+        "icon": "",
+        "note": "1914-1918",
+        "url": "kvíz"
+    },
+    {
+        "id": 2,
+        "title": "WW2",
+        "page" : "../pages/ww2.js",
+        "subtitle": "",
+        "icon":"",
+        "note": "1939-1945",
+        "url": "kvíz"
+    },
+    {
+        "id": 4,
+        "title": "ZAJIMAVOSTI",
+        "subtitle": "",
+        "icon": "",
+        "note": "",
+        "url": "kvíz"
+    },
+    {
+        "id": 5,
+        "title": "TECHNIKA",
+        "subtitle": "",
+        "icon": "",
+        "note": "",
+        "url": "kvíz"
+    }
+]
